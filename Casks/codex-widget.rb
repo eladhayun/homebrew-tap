@@ -1,6 +1,6 @@
 cask "codex-widget" do
-  version "0.1.0,7"
-  sha256 "39cb15a689667cd0ee6d4d98e976c099275d88d68fe77e1b7c8cb92982119bcd"
+  version "0.1.0,9"
+  sha256 "ee1f2cf801bb737f55fda3ba7d1b331246f8b81b70ba813a1a7f6d8206cfcd2f"
 
   url "https://github.com/eladhayun/codex-widget/releases/download/v#{version.csv.first}%2Bbuild.#{version.csv.second}/Codex-Widget-#{version.csv.first}-build.#{version.csv.second}-macOS-arm64.dmg"
   name "Codex Widget"
