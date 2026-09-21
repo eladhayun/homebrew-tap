@@ -8,7 +8,7 @@ cask "codex-widget" do
   homepage "https://github.com/eladhayun/codex-widget"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Codex Widget.app"
 
